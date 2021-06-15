@@ -1,6 +1,6 @@
 # impish
 
-Need to write some functions that interract with Azure DevOps API. Main goal is to search all variables in builds, releases and variable groups that match a value, including those that are sensitive and output the name. 
+Need to write some functions that interract with Azure DevOps API. Main goal is to search all variables in builds, releases and variable groups that match a value.
 
 envvars that need setting
 
